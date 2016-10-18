@@ -16,12 +16,12 @@ body {
 }
 @font-face {
     font-family: summit;
-    src: url(Summit_TrueType/SummitMedium-Inline.ttf);
+    src: url(SummitMedium-Inline.ttf);
     font-weight: bold;
 }
 @font-face {
     font-family: summitTxt;
-    src: url(Summit_OpenType/SummitLight-Solid.otf);
+    src: url(SummitLight-Solid.otf);
     font-weight: bold;
 }
 .name{
