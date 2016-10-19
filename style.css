@@ -11,8 +11,8 @@ body {
 .center{
     text-align: center;
 }
-.textContainer{
-
+.ih-item.square.effect6 .info p {
+    font-size: 28px;
 }
 @font-face {
     font-family: summit;
