@@ -69,7 +69,6 @@ body {
     -moz-transition: opacity .5s ease-in-out;
 }
 .details {
-    width: 126px;
     margin: 9px auto 0;
     background: #578FFE;
     padding: 9px 0;
@@ -80,7 +79,7 @@ body {
     color: #fff;
     text-decoration: none;
     display: block;
-    font-size: 12px;
+    font-size: 20px;
     font-weight: 700;
     letter-spacing: 0;
     text-transform: uppercase;
@@ -95,8 +94,8 @@ body {
     text-decoration: none;
 }
 .fa{
-    font-size: xx-large;
-    padding: 5px;
+    font-size: 3em;
+    padding: 10px;
 }
 
 .paddingBottom{
